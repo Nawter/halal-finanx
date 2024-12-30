@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Wahed Invest",
+    "description": "Global halal investment platform",
+    "alexaRank": 123456,
+    "url": "https://wahedinvest.com",
+    "longDescription": "Wahed Invest is a pioneering global halal investment platform that provides Muslims and ethical investors with the opportunity to invest in Shariah-compliant portfolios.",
+    "category": "investment"
+  },
+  {
+    "name": "IslamicMarkets",
+    "description": "Islamic finance and investment platform",
+    "alexaRank": 345678,
+    "url": "https://islamicmarkets.com",
+    "longDescription": "IslamicMarkets is a comprehensive platform dedicated to Islamic finance and investments, serving as a hub for professionals, institutions, and individuals interested in Shariah-compliant financial products and services.",
+    "category": "investment"
+  },
+  {
+    "name": "Manzil",
+    "description": "Halal mortgage and investment solutions",
+    "alexaRank": 456789,
+    "url": "https://manzil.ca",
+    "longDescription": "Manzil is a Canadian financial services company that specializes in providing halal mortgage and investment solutions, helping Muslim Canadians achieve homeownership and financial growth without compromising their religious beliefs.",
+    "category": "investment"
+  },
+  {
+    "name": "Wealthsimple Halal",
+    "description": "Halal investing portfolio",
+    "alexaRank": 567890,
+    "url": "https://www.wealthsimple.com/en-ca/feature/halal-investing",
+    "longDescription": "Wealthsimple Halal is a Shariah-compliant investment portfolio offered by Wealthsimple, designed to meet the needs of Muslim investors who want to grow their wealth in accordance with Islamic principles.",
+    "category": "investment"
+  },
+  {
+    "name": "Blossom Finance",
+    "description": "Islamic microfinance and investment",
+    "alexaRank": 789012,
+    "url": "https://blossomfinance.com",
+    "longDescription": "Blossom Finance is an innovative platform that combines Islamic microfinance with modern technology to provide ethical investment opportunities.",
+    "category": "investment"
+  },
+  {
+    "name": "Ethis Crowd",
+    "description": "Islamic crowdfunding platform",
+    "alexaRank": 890123,
+    "url": "https://ethis.co",
+    "longDescription": "Ethis Crowd is a pioneering Islamic crowdfunding platform that connects ethical investors with impactful real estate and business projects.",
+    "category": "crowdfunding"
+  },
+  {
+    "name": "LaunchGood",
+    "description": "Muslim-focused crowdfunding platform",
+    "alexaRank": 901234,
+    "url": "https://www.launchgood.com",
+    "longDescription": "LaunchGood is a global crowdfunding platform focused on supporting Muslims and their projects worldwide.",
+    "category": "crowdfunding"
+  },
+  {
+    "name": "Finterra",
+    "description": "Blockchain-based Islamic finance",
+    "alexaRank": 667788,
+    "url": "https://finterra.org",
+    "longDescription": "Finterra is a blockchain-based platform that focuses on Islamic finance solutions.",
+    "category": "crypto"
+  },
+  {
+    "name": "Zoya Finance",
+    "description": "Halal stock screening app",
+    "alexaRank": 110223,
+    "url": "https://zoya.finance",
+    "longDescription": "Zoya Finance is a mobile app that provides halal stock screening and investment insights for Muslim investors.",
+    "category": "investment"
+  },
+  {
+    "name": "Arbah Capital",
+    "description": "Saudi Arabian Islamic investment firm",
+    "alexaRank": 140556,
+    "url": "https://arbahcapital.com",
+    "longDescription": "Arbah Capital is a Saudi Arabian investment firm that specializes in Shariah-compliant investment solutions.",
+    "category": "investment"
+  },
+  {
+    "name": "Amana Mutual Funds",
+    "description": "Shariah-compliant mutual funds",
+    "alexaRank": 160778,
+    "url": "https://www.amanafunds.com",
+    "longDescription": "Amana Mutual Funds is a family of Shariah-compliant mutual funds managed by Saturna Capital.",
+    "category": "investment"
+  },
+  {
+    "name": "Ijara CDC",
+    "description": "Islamic home financing",
+    "alexaRank": 170889,
+    "url": "https://ijaracdc.com",
+    "longDescription": "Ijara CDC is a specialized Islamic finance company that focuses on providing Shariah-compliant home financing solutions in the United States.",
+    "category": "banking"
+  },
+  {
+    "name": "Guidance Residential",
+    "description": "Islamic home financing solutions",
+    "alexaRank": 181000,
+    "url": "https://guidanceresidential.com",
+    "longDescription": "Guidance Residential is a leading provider of Shariah-compliant home financing solutions in the United States.",
+    "category": "banking"
+  },
+  {
+    "name": "Al Rayan Bank",
+    "description": "Islamic banking in the UK",
+    "alexaRank": null,
+    "url": "https://www.alrayanbank.co.uk",
+    "longDescription": "Al Rayan Bank is a UK-based Islamic bank offering Sharia-compliant financial products and services to both Muslim and non-Muslim customers.",
+    "category": "banking"
+  },
+  {
+    "name": "Gatehouse Bank",
+    "description": "UK-based Sharia-compliant bank",
+    "alexaRank": null,
+    "url": "https://www.gatehousebank.com",
+    "longDescription": "Gatehouse Bank is a UK-based Sharia-compliant bank offering ethical savings, home finance, and real estate investment opportunities.",
+    "category": "banking"
+  },
+  {
+    "name": "Musaffa",
+    "description": "Halal Investment Research App",
+    "alexaRank": null,
+    "url": "https://musaffa.com",
+    "longDescription": "Musaffa is a halal investment research app that provides stock and ETF screening tools.",
+    "category": "investment"
+  },
+  {
+    "name": "Hejaz Financial Services",
+    "description": "Australian Islamic financial services",
+    "alexaRank": null,
+    "url": "https://www.hejazfs.com.au",
+    "longDescription": "Hejaz Financial Services offers a range of Sharia-compliant financial products and services to the Australian Muslim community.",
+    "category": "banking"
+  },
+  {
+    "name": "ShariaPortfolio",
+    "description": "Halal wealth management",
+    "alexaRank": null,
+    "url": "https://shariaportfolio.com",
+    "longDescription": "ShariaPortfolio provides comprehensive halal wealth management services.",
+    "category": "investment"
+  },
+  {
+    "name": "Institute of Halal Investing",
+    "description": "Educational resource for halal investing",
+    "alexaRank": null,
+    "url": "https://www.instituteofhalalinvesting.org",
+    "longDescription": "The Institute of Halal Investing is an educational organization dedicated to providing resources and guidance on Sharia-compliant investing practices.",
+    "category": "other"
+  },
+  {
+    "name": "Pfida",
+    "description": "Interest-free financial solutions",
+    "alexaRank": null,
+    "url": "https://www.pfida.com",
+    "longDescription": "Pfida offers interest-free financial solutions, including home financing and investments.",
+    "category": "banking"
+  },
+  {
+    "name": "MUFG Bank",
+    "description": "Islamic finance services",
+    "alexaRank": null,
+    "url": "https://www.mufgemea.com/products-and-services/islamic-finance",
+    "longDescription": "MUFG Bank provides Islamic finance services, including Sharia-compliant structured finance.",
+    "category": "banking"
+  },
+  {
+    "name": "Islamic Finance",
+    "description": "Islamic finance news and information",
+    "alexaRank": null,
+    "url": "https://www.islamicfinance.com",
+    "longDescription": "Islamic Finance is a comprehensive resource for news, information, and analysis on the global Islamic finance industry.",
+    "category": "other"
+  },
+  {
+    "name": "Kuwait Finance House",
+    "description": "Islamic banking and finance",
+    "alexaRank": null,
+    "url": "https://www.kfh.com",
+    "longDescription": "Kuwait Finance House is a leading Islamic bank offering a wide range of Sharia-compliant financial products and services.",
+    "category": "banking"
+  },
+  {
+    "name": "Azzad Asset Management",
+    "description": "Halal investment management",
+    "alexaRank": null,
+    "url": "https://azzadasset.com",
+    "longDescription": "Azzad Asset Management provides halal investment solutions for socially responsible Muslim investors.",
+    "category": "investment"
+  },
+  {
+    "name": "UOB Islamic Asset Management",
+    "description": "Islamic asset management services",
+    "alexaRank": null,
+    "url": "https://www.uobam.com.my/our-solutions/islamic-investments.page",
+    "longDescription": "UOB Islamic Asset Management offers Sharia-compliant investment products and services.",
+    "category": "investment"
+  },
+  {
+    "name": "Amanah Advisors",
+    "description": "Islamic financial planning",
+    "alexaRank": null,
+    "url": "https://amanahadvisors.com",
+    "longDescription": "Amanah Advisors provides comprehensive Islamic financial planning services.",
+    "category": "investment"
+  },
+  {
+    "name": "Pheim Asset Management",
+    "description": "Islamic asset management",
+    "alexaRank": null,
+    "url": "https://www.pheim.com.my/islamic-asset-management",
+    "longDescription": "Pheim Asset Management offers Islamic asset management services.",
+    "category": "investment"
+  },
+  {
+    "name": "Allied Asset Advisors",
+    "description": "Halal mutual funds",
+    "alexaRank": null,
+    "url": "https://investaaa.com",
+    "longDescription": "Allied Asset Advisors manages the Iman Fund, a Sharia-compliant mutual fund.",
+    "category": "investment"
+  },
+  {
+    "name": "Opus Asset Management",
+    "description": "Islamic fixed income specialist",
+    "alexaRank": null,
+    "url": "https://www.opusasset.com",
+    "longDescription": "Opus Asset Management specializes in Islamic fixed income investments.",
+    "category": "investment"
+  },
+  {
+    "name": "Abu Dhabi Commercial Bank",
+    "description": "Islamic banking services",
+    "alexaRank": null,
+    "url": "https://www.adcb.com/en/islamic",
+    "longDescription": "Abu Dhabi Commercial Bank provides a range of Islamic banking services.",
+    "category": "banking"
+  },
+  {
+    "name": "Principal Islamic",
+    "description": "Islamic asset management",
+    "alexaRank": null,
+    "url": "https://www.principalislamic.com",
+    "longDescription": "Principal Islamic offers a wide range of Sharia-compliant investment products and solutions.",
+    "category": "investment"
+  },
+  {
+    "name": "Islamic Wealth Management",
+    "description": "Sharia-compliant wealth management",
+    "alexaRank": null,
+    "url": "https://islamicwealthmanagement.co.uk",
+    "longDescription": "Islamic Wealth Management provides comprehensive Sharia-compliant financial planning and investment services.",
+    "category": "investment"
+  },
+  {
+    "name": "Islamic Economics Project",
+    "description": "Research on Islamic economics",
+    "alexaRank": null,
+    "url": "https://islamiceconomicsproject.com",
+    "longDescription": "The Islamic Economics Project is a research initiative focused on exploring and promoting Islamic economic principles.",
+    "category": "other"
+  },
+  {
+    "name": "Rizqonomics",
+    "description": "Islamic finance education",
+    "alexaRank": null,
+    "url": "https://rizqonomics.com",
+    "longDescription": "Rizqonomics provides educational resources and courses on Islamic finance.",
+    "category": "other"
+  },
+  {
+    "name": "Asian Banking & Finance",
+    "description": "Financial news and analysis",
+    "alexaRank": null,
+    "url": "https://asianbankingandfinance.net",
+    "longDescription": "Asian Banking & Finance covers news and analysis on the banking and finance sector in Asia.",
+    "category": "other"
+  },
+  {
+    "name": "Salaam Gateway",
+    "description": "Islamic economy news and insights",
+    "alexaRank": null,
+    "url": "https://www.salaamgateway.com",
+    "longDescription": "Salaam Gateway is a global news and insights platform covering the Islamic economy.",
+    "category": "other"
+  },
+  {
+    "name": "Halal Options",
+    "description": "Islamic mortgage alternatives",
+    "alexaRank": null,
+    "url": "https://halaloptions.com",
+    "longDescription": "Halal Options provides information and resources on Sharia-compliant alternatives to conventional mortgages.",
+    "category": "banking"
+  },
+  {
+    "name": "StrideUp",
+    "description": "Halal home financing",
+    "alexaRank": null,
+    "url": "https://www.strideup.co",
+    "longDescription": "StrideUp offers an innovative, Sharia-compliant home financing solution.",
+    "category": "banking"
+  },
+  {
+    "name": "Kestrl",
+    "description": "Islamic personal finance app",
+    "alexaRank": null,
+    "url": "https://kestrl.io",
+    "longDescription": "Kestrl is a personal finance app designed for Muslims.",
+    "category": "banking"
+  },
+  {
+    "name": "IslamicCoin",
+    "description": "Sharia-compliant cryptocurrency",
+    "alexaRank": null,
+    "url": "https://islamiccoin.net",
+    "longDescription": "IslamicCoin is a Sharia-compliant cryptocurrency project.",
+    "category": "crypto"
+  },
+  {
+    "name": "CAIZCOIN",
+    "description": "Islamic cryptocurrency",
+    "alexaRank": null,
+    "url": "https://caizcoin.com",
+    "longDescription": "CAIZCOIN is an Islamic-compliant cryptocurrency.",
+    "category": "crypto"
+  },
+  {
+    "name": "Crypto Ummah",
+    "description": "Islamic crypto community",
+    "alexaRank": null,
+    "url": "https://cryptoummah.com",
+    "longDescription": "Crypto Ummah is a platform and community for Muslim crypto enthusiasts.",
+    "category": "crypto"
+  },
+  {
+    "name": "Sharlife",
+    "description": "Islamic financial planning app",
+    "alexaRank": null,
+    "url": "https://sharlife.my",
+    "longDescription": "Sharlife is a Malaysian Islamic financial planning app.",
+    "category": "banking"
+  },
+  {
+    "name": "Baraka",
+    "description": "Halal investment app",
+    "alexaRank": null,
+    "url": "https://getbaraka.com",
+    "longDescription": "Baraka is a commission-free investment app for halal investing.",
+    "category": "investment"
+  },
+  {
+    "name": "Amal Invest",
+    "description": "Ethical investment platform",
+    "alexaRank": null,
+    "url": "https://amalinvest.com",
+    "longDescription": "Amal Invest is an ethical investment platform that offers Sharia-compliant investment opportunities.",
+    "category": "investment"
+  },
+  {
+    "name": "Wealthface",
+    "description": "Halal robo-advisor",
+    "alexaRank": null,
+    "url": "https://wealthface.com",
+    "longDescription": "Wealthface is a robo-advisor that offers Sharia-compliant investment portfolios.",
+    "category": "investment"
+  },
+  {
+    "name": "Islamicly",
+    "description": "Halal stock screening",
+    "alexaRank": null,
+    "url": "https://www.islamicly.com",
+    "longDescription": "Islamicly provides a comprehensive halal stock screening service.",
+    "category": "investment"
+  },
+  {
+    "name": "HASAN.VC",
+    "description": "Islamic venture capital",
+    "alexaRank": null,
+    "url": "https://hasan.vc",
+    "longDescription": "HASAN.VC is an Islamic venture capital platform.",
+    "category": "investment"
+  },
+  {
+    "name": "Financial Islam",
+    "description": "Islamic finance education",
+    "alexaRank": null,
+    "url": "https://www.financialislam.com",
+    "longDescription": "Financial Islam offers educational resources and certifications in Islamic finance.",
+    "category": "other"
+  },
+  {
+    "name": "Simply Ethical",
+    "description": "Ethical investment solutions",
+    "alexaRank": null,
+    "url": "https://simplyethical.com",
+    "longDescription": "Simply Ethical provides Sharia-compliant and ethical investment solutions.",
+    "category": "investment"
+  },
+  {
+    "name": "Waseeya",
+    "description": "Islamic estate planning",
+    "alexaRank": null,
+    "url": "https://waseeya.com",
+    "longDescription": "Waseeya is an online platform that helps Muslims create Sharia-compliant wills.",
+    "category": "other"
+  },
+  {
+    "name": "Beban",
+    "description": "Islamic debt management",
+    "alexaRank": null,
+    "url": "https://www.beban.me",
+    "longDescription": "Beban is a Sharia-compliant debt management and consolidation platform.",
+    "category": "banking"
+  },
+  {
+    "name": "Rawafid",
+    "description": "Islamic crowdfunding",
+    "alexaRank": null,
+    "url": "https://www.rawafid.om",
+    "longDescription": "Rawafid is an Omani Islamic crowdfunding platform.",
+    "category": "crowdfunding"
+  },
+  {
+    "name": "Tameed",
+    "description": "Islamic invoice financing",
+    "alexaRank": null,
+    "url": "https://www.ta3meed.com",
+    "longDescription": "Tameed is a Sharia-compliant invoice financing platform.",
+    "category": "banking"
+  },
+  {
+    "name": "DubaiNext",
+    "description": "Crowdfunding platform",
+    "alexaRank": null,
+    "url": "https://www.dubainext.ae",
+    "longDescription": "DubaiNext is a government-backed crowdfunding platform in the UAE.",
+    "category": "crowdfunding"
+  },
+  {
+    "name": "Bambucorn",
+    "description": "Ethical investment platform",
+    "alexaRank": null,
+    "url": "https://bambucorn.com",
+    "longDescription": "Bambucorn is an ethical investment platform that offers Sharia-compliant investment opportunities.",
+    "category": "investment"
+  },
+  {
+    "name": "EthisX",
+    "description": "Islamic fintech ecosystem",
+    "alexaRank": null,
+    "url": "https://ethisx.co",
+    "longDescription": "EthisX is an Islamic fintech ecosystem that includes various platforms for ethical crowdfunding.",
+    "category": "crowdfunding"
+  },
+  {
+    "name": "Beehive",
+    "description": "Islamic P2P lending",
+    "alexaRank": null,
+    "url": "https://www.beehive.ae",
+    "longDescription": "Beehive is a peer-to-peer lending platform that offers Sharia-compliant financing options.",
+    "category": "banking"
+  },
+  {
+    "name": "Ithmar Capital",
+    "description": "Islamic investment bank",
+    "alexaRank": null,
+    "url": "https://ithmar.com",
+    "longDescription": "Ithmar Capital is an Islamic investment bank based in Saudi Arabia.",
+    "category": "banking"
+  },
+  {
+    "name": "Stake",
+    "description": "Real estate investment platform",
+    "alexaRank": null,
+    "url": "https://getstake.com",
+    "longDescription": "Stake is a digital real estate investment platform that allows users to invest in properties through Sharia-compliant REITs.",
+    "category": "investment"
+  },
+  {
+    "name": "Sadaqah",
+    "description": "Islamic crowdfunding",
+    "alexaRank": null,
+    "url": "https://sadaqah.io",
+    "longDescription": "Sadaqah is an Islamic crowdfunding platform that facilitates charitable giving.",
+    "category": "crowdfunding"
+  },
+  {
+    "name": "IWill Solicitors",
+    "description": "Islamic wills and estate planning",
+    "alexaRank": null,
+    "url": "https://www.iwillsolicitors.com",
+    "longDescription": "IWill Solicitors specializes in creating Sharia-compliant wills and providing Islamic estate planning services.",
+    "category": "other"
+  },
+  {
+    "name": "Nomo Bank",
+    "description": "Digital Islamic banking",
+    "alexaRank": null,
+    "url": "https://www.nomobank.com",
+    "longDescription": "Nomo Bank is a digital Islamic banking service offered by Bank of London and The Middle East (BLME).",
+    "category": "banking"
+  }
+]
